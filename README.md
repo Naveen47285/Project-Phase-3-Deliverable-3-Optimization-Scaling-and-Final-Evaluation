@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phase 3: Optimization, Scaling, and Final Evaluation
 
 This project implements an optimized Min Heap data structure in Python as part of Phase 3 of the assignment.
@@ -34,3 +35,6 @@ python main.py
 python test_heap.py
 python performance_test.py
 python graph.py
+=======
+# Project-Phase-3-Deliverable-3-Optimization-Scaling-and-Final-Evaluation
+>>>>>>> 0383f9508782e29e526b81c907966a3812a5acd5

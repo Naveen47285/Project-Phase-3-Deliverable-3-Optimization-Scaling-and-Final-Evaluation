@@ -1,4 +1,4 @@
-from heap import MinHeap
+from heap_optimized import MinHeap
 
 heap = MinHeap()
 
